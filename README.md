@@ -6,6 +6,6 @@ GUI implementation of the A* path finding algorithm
 - orange tiles represent nodes in the open list
 - blue tiles represent the parent node connection from the goal to start node in the closed list
 
-<img src="demo/astar_demo.gif" width="500" height="500">
+<img src="demo/astar-demo.gif" width="500" height="500">
 
 ⭐️ Author [Brandon](https://github.com/btror)
